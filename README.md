@@ -29,9 +29,10 @@
 - پشتیبانی از streaming برای داده‌های بزرگ
 - قابلیت Versioning برای backward compatibility
 
+---
 ## نصب
 ```bash
-github.com/Skryldev/crypto
+go get github.com/Skryldev/crypto
 ```
 
 ---
